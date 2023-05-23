@@ -6,8 +6,8 @@ import org.junit.runners.Suite;
 
 @RunWith(Suite.class)
 @Suite.SuiteClasses({
-       AccountTest.class, Admin.class,TransactionTest.class,
-        ClientTest.class
+       AdminTest.class,TransactionTest.class,
+        ClientTest.class, AccountTest.class
 
 
 })
